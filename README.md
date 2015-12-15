@@ -13,28 +13,30 @@ Apple Pay is a proprietary IOS-based mobile payment system that uses your phone 
 ![][logo0]
 [logo0]:https://github.com/weihuang023/NetworkSecurityMobilePayment/blob/master/apple_pay.jpg 
 
-### Samsung Pay
+### [Samsung Pay]
+[Samsung Pay]:http://www.samsung.com/global/galaxy/galaxy-s6-edge-plus/samsung-pay/
 
 Samsung Pay uses the Loop Pay mobile-payment platform to allow for mobile payments at just about any point-of-sale system. Indeed, Samsung Pay uses secure tokenization for NFC transactions, magnetic stripe, or magnetic stripe transactions use standard credit card numbers stored in an industry-standard encrypted format (PCI-DSS).
 
 ![][logo1]
 [logo1]:https://github.com/weihuang023/NetworkSecurityMobilePayment/blob/master/samsung-pay.jpg
 
-### Android Pay
-
+### [Android Pay]
+[Android Pay]: https://www.android.com/pay/
 Android Pay uses NFC/fingerprint system and similar to Apple Pay that stores your credit card info to let you make quick payments at supported point-of-sale systems as well as within certain apps. However, Android Pay does not send your actual credit or debit card information when it completes a payment. Virtual Account Number is created to represent your account information during the transaction for mobile payment.
 
 ![][logo2]
 [logo2]:https://github.com/weihuang023/NetworkSecurityMobilePayment/blob/master/android-pay.jpg
 
-### Current C
-
+### [Current C]
+[Current C]:https://www.currentc.com/
 Current C is the branded app from the Merchant Customer Exchange (MCX), a network formed and owned by a conglomeration of disparate retailers. By using QR codes, Current C can be accepted by any member merchant with laser code readers at the checkout counter and avoids the credit card system. 
 
 ![][logo3]
 [logo3]:https://github.com/weihuang023/NetworkSecurityMobilePayment/blob/master/CurrentC-App.jpg
 
-### Google Wallet
+### [Google Wallet]
+[Google Wallet]:https://www.google.com/wallet/
 
 Google Wallet is now Android Pay and use Password and PIN to make in-store NFC/contactless terminal purchases as well as in-app purchase. However, Google Wallet has Virtual Credit Card that do not stores your credit card information and purpose-built for sending and receiving money. 
 

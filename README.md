@@ -1,12 +1,12 @@
-# NetworkSecurityMobilePayment
+# Network Security - Mobile Payment and Digital Wallets
 
 
-## Apple Pay
+### Apple Pay
 
-## Samsung Pay
+### Samsung Pay
 
-## Android Pay
+### Android Pay
 
-## Current C
+### Current C
 
-## Google Wallet
+### Google Wallet

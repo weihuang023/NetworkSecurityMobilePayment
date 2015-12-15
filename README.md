@@ -5,7 +5,8 @@ Abstract – Digital wallet service has become popular mobile payment into new i
 ![][logo-1]
 [logo-1]:https://github.com/weihuang023/NetworkSecurityMobilePayment/blob/master/mobile-wallets-chart.jpg
 
-### Apple Pay
+### [Apple Pay]
+[Apple Pay]:https://support.apple.com/en-us/HT201239
 
 Apple Pay is a proprietary IOS-based mobile payment system that uses your phone to make payments on NFC-enabled credit card terminals at the point-of-sale (POS). Like most mobile payment, Apple Pay transactions are tokenized. Instead of the usual credit card numbers, Apple Pay generates a distinct Device Account Number, and each vendor is assigned its own distinct token service number. A unique dynamic security code is generated for each transaction, Users can have no traceable credit card numbers are stored by the retailer or by Apple.
 

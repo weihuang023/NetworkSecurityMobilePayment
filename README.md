@@ -4,10 +4,20 @@ Abstract – Digital wallet service has become popular mobile payment into new i
 
 ### Apple Pay
 
+Apple Pay is a proprietary IOS-based mobile payment system that uses your phone to make payments on NFC-enabled credit card terminals at the point-of-sale (POS). Like most mobile payment, Apple Pay transactions are tokenized. Instead of the usual credit card numbers, Apple Pay generates a distinct Device Account Number, and each vendor is assigned its own distinct token service number. A unique dynamic security code is generated for each transaction, Users can have no traceable credit card numbers are stored by the retailer or by Apple.
+
 ### Samsung Pay
+
+Samsung Pay uses the Loop Pay mobile-payment platform to allow for mobile payments at just about any point-of-sale system. Indeed, Samsung Pay uses secure tokenization for NFC transactions, magnetic stripe, or magnetic stripe transactions use standard credit card numbers stored in an industry-standard encrypted format (PCI-DSS).
 
 ### Android Pay
 
+Android Pay uses NFC/fingerprint system and similar to Apple Pay that stores your credit card info to let you make quick payments at supported point-of-sale systems as well as within certain apps. However, Android Pay does not send your actual credit or debit card information when it completes a payment. Virtual Account Number is created to represent your account information during the transaction for mobile payment.
+
 ### Current C
 
+Current C is the branded app from the Merchant Customer Exchange (MCX), a network formed and owned by a conglomeration of disparate retailers. By using QR codes, Current C can be accepted by any member merchant with laser code readers at the checkout counter and avoids the credit card system. 
+
 ### Google Wallet
+
+Google Wallet is now Android Pay and use Password and PIN to make in-store NFC/contactless terminal purchases as well as in-app purchase. However, Google Wallet has Virtual Credit Card that do not stores your credit card information and purpose-built for sending and receiving money. 

@@ -2,15 +2,15 @@
 
 Abstract – Digital wallet service has become popular mobile payment into new industry world. New threats and security issue is growing because the new technologies introduced. The purpose of this paper is to study whether digital wallet services have better security method. Digital wallet Service is an innovative way of paying our bill using our mobile devices. However, there are many security issues have found from pervious research in mobile device. With the advance of technology, digital wallet service is starting to replace conventional payment method. As a whole, this research paper shows different digital wallet service with different security features and improvement of digital wallet service in mobile security.
 
-![][logo]
-[logo]:https://github.com/weihuang023/NetworkSecurityMobilePayment/blob/master/mobile-wallets-chart.jpg
+![][logo-1]
+[logo-1]:https://github.com/weihuang023/NetworkSecurityMobilePayment/blob/master/mobile-wallets-chart.jpg
 
 ### Apple Pay
 
 Apple Pay is a proprietary IOS-based mobile payment system that uses your phone to make payments on NFC-enabled credit card terminals at the point-of-sale (POS). Like most mobile payment, Apple Pay transactions are tokenized. Instead of the usual credit card numbers, Apple Pay generates a distinct Device Account Number, and each vendor is assigned its own distinct token service number. A unique dynamic security code is generated for each transaction, Users can have no traceable credit card numbers are stored by the retailer or by Apple.
 
-![][logo]
-[logo]:https://github.com/weihuang023/NetworkSecurityMobilePayment/blob/master/apple_pay.jpg 
+![][logo0]
+[logo0]:https://github.com/weihuang023/NetworkSecurityMobilePayment/blob/master/apple_pay.jpg 
 
 ### Samsung Pay
 

@@ -39,3 +39,6 @@ Google Wallet is now Android Pay and use Password and PIN to make in-store NFC/c
 
 ![][logo4]
 [logo4]:https://github.com/weihuang023/NetworkSecurityMobilePayment/blob/master/google-wallet.png
+
+## References
+
